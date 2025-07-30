@@ -10,18 +10,18 @@ This project uses **Logistic Regression** to predict breast cancer (malignant vs
 - Achieved **96% accuracy**
 - Discussed limitations: high-stakes domain needs near 100% recall
 
-## 🧪 Model Evaluation
+##  Model Evaluation
 
 Key metrics:
 - Accuracy: 96%
 - Precision, Recall, F1-Score: Evaluated using `classification_report`
 - Confusion Matrix: Visualized to assess true/false positives/negatives
 
-## 📁 Files
+##  Files
 
 - `breast_cancer_logistic_regression.ipynb`: Full Colab notebook with code and outputs
 
-## 📌 Future Work
+## Future Work
 
 - Try advanced models (SVM, Random Forest)
 - Handle class imbalance
